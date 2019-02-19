@@ -1,0 +1,31 @@
+### Module positions - created on 11/25/18 22:53:39 ###
+### Printed by Pcbnew version kicad (5.0.0)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val           Package                    PosX       PosY       Rot  Side
+C1        1uF           C_1206_HandSoldering   135.3000   -94.9000    0.0000  top
+C2        1uF           C_1206_HandSoldering   149.9000  -102.6000  288.0000  top
+C3        1uF           C_1206_HandSoldering   147.3000  -118.6000  216.0000  top
+C4        1uF           C_1206_HandSoldering   130.5000  -121.0000  144.0000  top
+C5        1uF           C_1206_HandSoldering   123.5000  -106.3000   72.0000  top
+D1        LED_Dual_CCA  SOT-23_Handsoldering   137.2500   -77.7500   90.0000  top
+D2        LED_Dual_CCA  SOT-23_Handsoldering   166.7500   -99.0000   18.0000  top
+D3        LED_Dual_CCA  SOT-23_Handsoldering   155.5000  -133.7500  306.0000  top
+D4        LED_Dual_CCA  SOT-23_Handsoldering   119.0000  -133.7500  234.0000  top
+D5        LED_Dual_CCA  SOT-23_Handsoldering   107.7500   -99.0000  162.0000  top
+Q1        2N7002        SOT-23_Handsoldering   135.2500   -88.8000   90.0000  top
+Q2        2N7002        SOT-23_Handsoldering   155.6000  -100.7000   18.0000  top
+Q3        2N7002        SOT-23_Handsoldering   150.8000  -123.4000  306.0000  top
+Q4        2N7002        SOT-23_Handsoldering   127.1000  -125.9000  234.0000  top
+Q5        2N7002        SOT-23_Handsoldering   117.7000  -104.5000  162.0000  top
+R1        750           R_1206_HandSoldering   137.2500   -83.7500  180.0000  top
+R2        100k          R_1206_HandSoldering   139.3000   -89.3000   90.0000  top
+R3        750           R_1206_HandSoldering   161.0000  -101.0000  108.0000  top
+R4        100k          R_1206_HandSoldering   156.5000  -104.7000   18.0000  top
+R5        750           R_1206_HandSoldering   152.2500  -128.7500   36.0000  top
+R6        100k          R_1206_HandSoldering   147.4000  -125.5000  306.0000  top
+R7        750           R_1206_HandSoldering   122.5000  -128.7500  324.0000  top
+R8        100k          R_1206_HandSoldering   124.1000  -123.2000  234.0000  top
+R9        750           R_1206_HandSoldering   113.5000  -101.0000  252.0000  top
+R10       100k          R_1206_HandSoldering   119.4000  -100.8000  162.0000  top
+## End

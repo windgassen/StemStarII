@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Blink_Badge-rescue)(type Legacy)(uri ${KIPRJMOD}/Blink_Badge-rescue.lib)(options "")(descr ""))
+)

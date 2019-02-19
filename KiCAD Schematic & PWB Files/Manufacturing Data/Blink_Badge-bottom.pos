@@ -1,0 +1,7 @@
+### Module positions - created on 11/25/18 22:53:39 ###
+### Printed by Pcbnew version kicad (5.0.0)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                               PosX       PosY       Rot  Side
+BT1       BATTERY   Keystone_3024-2_2x20mm-CoinCell  -137.2900  -105.0000    0.0000  bottom
+## End

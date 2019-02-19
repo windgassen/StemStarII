@@ -1,0 +1,101 @@
+Cmp-Mod V01 Created by Cvpcb (after 2015-mar-04 BZR unknown)-product   date = 5/23/2015 3:22:06 AM
+
+BeginCmp
+TimeStamp = /53E43E12;
+Reference = BT1;
+ValeurCmp = BATTERY;
+IdModule  = windgassen__kicad_lib:WINDGASSEN_CR2032_HOLDER_KEYSTONE_3003;
+EndCmp
+
+BeginCmp
+TimeStamp = /5404881F;
+Reference = C1;
+ValeurCmp = 47uF;
+IdModule  = Capacitors_ThroughHole:C_Radial_D6.3_L11.2_P2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /540486A1;
+Reference = C2;
+ValeurCmp = 47uF;
+IdModule  = Capacitors_ThroughHole:C_Radial_D6.3_L11.2_P2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E43E69;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = windgassen__kicad_lib:LED-3MM_SQUARE_CATHODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E44094;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = windgassen__kicad_lib:LED-3MM_SQUARE_CATHODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /540D1EE4;
+Reference = D3;
+ValeurCmp = 1N4148;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /540D1F70;
+Reference = D4;
+ValeurCmp = 1N4148;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54037875;
+Reference = Q1;
+ValeurCmp = BC547;
+IdModule  = windgassen__kicad_lib:TO92-AMMO_PAK_CBE;
+EndCmp
+
+BeginCmp
+TimeStamp = /54037882;
+Reference = Q2;
+ValeurCmp = BC547;
+IdModule  = windgassen__kicad_lib:TO92-AMMO_PAK_CBE;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E43D62;
+Reference = R1;
+ValeurCmp = 130;
+IdModule  = windgassen__kicad_lib:1_8W_RES;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E440F7;
+Reference = R2;
+ValeurCmp = 22k;
+IdModule  = windgassen__kicad_lib:1_8W_RES;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E43F9A;
+Reference = R3;
+ValeurCmp = 22k;
+IdModule  = windgassen__kicad_lib:1_8W_RES;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E4408E;
+Reference = R4;
+ValeurCmp = 130;
+IdModule  = windgassen__kicad_lib:1_8W_RES;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7C7BD;
+Reference = TH1;
+ValeurCmp = THERMISTOR;
+IdModule  = windgassen__kicad_lib:Thermistor_6mm_Epcos;
+EndCmp
+
+EndListe

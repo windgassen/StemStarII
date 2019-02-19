@@ -1,0 +1,32 @@
+Source:	C:\Users\jwind\Desktop\StemStar\StemStarII_SMT_REV_-\KiCAD Schematic & PWB Files\Blink_Badge.sch
+Date:	11/23/2018 5:33:56 PM
+Tool:	Eeschema (5.0.0)
+Component Count:	27
+Ref	Value	Part	Footprint	Description	Vendor
+BT1	BATTERY	Blink_Badge-rescue:BATTERY	windgassen__kicad_lib:WINDGASSEN_CR2032_HOLDER_KEYSTONE_3003		
+C1	1uF	Device:C	Capacitors_SMD:C_1206_HandSoldering	Unpolarized capacitor	
+C2	1uF	Device:C	Capacitors_SMD:C_1206_HandSoldering	Unpolarized capacitor	
+C3	1uF	Device:C	Capacitors_SMD:C_1206_HandSoldering	Unpolarized capacitor	
+C4	1uF	Device:C	Capacitors_SMD:C_1206_HandSoldering	Unpolarized capacitor	
+C5	1uF	Device:C	Capacitors_SMD:C_1206_HandSoldering	Unpolarized capacitor	
+D1	LED_Dual_AAC	Device:LED_Dual_AAC	TO_SOT_Packages_SMD:SOT-23_Handsoldering	LED dual, common cathode	
+D2	LED_Dual_AAC	Device:LED_Dual_AAC	TO_SOT_Packages_SMD:SOT-23_Handsoldering	LED dual, common cathode	
+D3	LED_Dual_AAC	Device:LED_Dual_AAC	TO_SOT_Packages_SMD:SOT-23_Handsoldering	LED dual, common cathode	
+D4	LED_Dual_AAC	Device:LED_Dual_AAC	TO_SOT_Packages_SMD:SOT-23_Handsoldering	LED dual, common cathode	
+D5	LED_Dual_AAC	Device:LED_Dual_AAC	TO_SOT_Packages_SMD:SOT-23_Handsoldering	LED dual, common cathode	
+Q1	2N7002	Transistor_FET:2N7002	TO_SOT_Packages_SMD:SOT-23_Handsoldering	0.115A Id, 60V Vds, N-channel MOSFET, SOT-23	
+Q2	2N7002	Transistor_FET:2N7002	TO_SOT_Packages_SMD:SOT-23_Handsoldering	0.115A Id, 60V Vds, N-channel MOSFET, SOT-23	
+Q3	2N7002	Transistor_FET:2N7002	TO_SOT_Packages_SMD:SOT-23_Handsoldering	0.115A Id, 60V Vds, N-channel MOSFET, SOT-23	
+Q4	2N7002	Transistor_FET:2N7002	TO_SOT_Packages_SMD:SOT-23_Handsoldering	0.115A Id, 60V Vds, N-channel MOSFET, SOT-23	
+Q5	2N7002	Transistor_FET:2N7002	TO_SOT_Packages_SMD:SOT-23_Handsoldering	0.115A Id, 60V Vds, N-channel MOSFET, SOT-23	
+R1	750	Device:R	Resistors_SMD:R_1206_HandSoldering	Resistor	
+R2	100k	Device:R	Resistors_SMD:R_1206_HandSoldering	Resistor	
+R3	750	Device:R	Resistors_SMD:R_1206_HandSoldering	Resistor	
+R4	100k	Device:R	Resistors_SMD:R_1206_HandSoldering	Resistor	
+R5	750	Device:R	Resistors_SMD:R_1206_HandSoldering	Resistor	
+R6	100k	Device:R	Resistors_SMD:R_1206_HandSoldering	Resistor	
+R7	750	Device:R	Resistors_SMD:R_1206_HandSoldering	Resistor	
+R8	100k	Device:R	Resistors_SMD:R_1206_HandSoldering	Resistor	
+R9	750	Device:R	Resistors_SMD:R_1206_HandSoldering	Resistor	
+R10	100k	Device:R	Resistors_SMD:R_1206_HandSoldering	Resistor	
+S1	JS202011SCQN	dk_Slide-Switches:JS202011SCQN	digikey-footprints:Switch_Slide_JS202011SCQN	SWITCH SLIDE DPDT 300MA 6V	
